@@ -1,0 +1,28 @@
+.header {
+  padding-top: 20px;
+  background-color: #23180d;
+  height: 85px;
+}
+
+.header-block {
+  display: flex;
+  justify-content: space-between;
+}
+
+.btn-search button {
+  margin-right: 30px;
+  padding: 8px 15px 8px 15px;
+  border: none;
+  font-size: 17px;
+  color: white;
+  background-color: #c52d2f;
+  border-radius: 2px;
+}
+
+.btn-search input {
+  font-size: 17px;
+  border-radius: 2px;
+  border: none;
+  width: 130px;
+  padding: 8px 15px 8px 15px;
+}
